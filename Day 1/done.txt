@@ -1,1 +1,1 @@
-gogogo
+we learn how to connect github with vs code
